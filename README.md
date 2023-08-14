@@ -2,12 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](http://replaceurl)
+- [Active Directory Hacking Lab](http://replaceurl)
+- Setup SIEM in Azure (Sentinel)
+- Create a File Integrity Monitor
+- Vulnerability Management Lab
+- Custom REST API
  
 <h2>📺 Machine Walkthroughs:</h2>
 
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
   
@@ -15,6 +17,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
   - [Google Cybersecurity Professional](http://REPLACEURL)
+  - Security+ [In Progress]
 
 
 
