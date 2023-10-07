@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eddie! <br/><a href="https://github.com/ebfmm"> UMGC Student</a>, <a href="https://www.linkedin.com/in/ebfm/">Cybersecurity Enthusiast</a>, Aspiring Security Engineer</h1>
+<h1>Hi, I'm Eddie Figueroa! <br/><a href="https://github.com/ebfmm"> UMGC Student</a>, <a href="https://www.linkedin.com/in/ebfm/">Cybersecurity Enthusiast</a>, Aspiring Security Engineer</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -17,7 +17,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
   - [Google Cybersecurity Professional](http://REPLACEURL)
-  - Security+ [In Progress]
+  - [CompTIA Security+](https://drive.google.com/file/d/1TkiE-tcuweFR0n2v4lJhMFVUV-fXPzpq/view?pli=1)
 
 
 
