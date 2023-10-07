@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eddie! <br/><a href="https://github.com/ebfmm">Student</a>, <a href="https://www.linkedin.com/in/ebfm/">Cybersecurity Enthusiast</a>, Aspiring Security Professional</h1>
+<h1>Hi, I'm Eddie! <br/><a href="https://github.com/ebfmm"> UMGC Student</a>, <a href="https://www.linkedin.com/in/ebfm/">Cybersecurity Enthusiast</a>, Aspiring Security Engineer</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -8,7 +8,7 @@
 - Vulnerability Management Lab
 - Custom REST API
  
-<h2>📺 Machine Walkthroughs:</h2>
+<h2>📺 Programming Projects:</h2>
 
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
