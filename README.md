@@ -5,8 +5,6 @@
 - [Active Directory Hacking Lab](http://replaceurl)
 - Setup SIEM in Azure (Sentinel)
 - Create a File Integrity Monitor
-- Vulnerability Management Lab
-- Custom REST API
  
 <h2>📺 Programming Projects:</h2>
 
