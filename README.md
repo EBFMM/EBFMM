@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eddie Figueroa! <br/><a href="https://github.com/ebfmm"> UMGC Student</a>, <a href="https://www.linkedin.com/in/ebfm/">Cybersecurity Enthusiast</a>, Aspiring Security Engineer</h1>
+<h1>Hi, I'm Eddie Figueroa! <br>Cybersecurity Student, Aspiring Security Engineer</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
