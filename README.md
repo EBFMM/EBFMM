@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eddie Figueroa! <br>Cybersecurity Student, Aspiring Security Engineer</h1>
+<h1>Hi, I'm Eduardo Figueroa! <br>Cybersecurity Student, Aspiring Security Engineer</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
