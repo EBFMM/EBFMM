@@ -12,7 +12,7 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| SKILL | <a href="https://google.com">Penetration Test Demo</a>|
+| SKILL | <a href="https://github.com/EBFMM/Penetration-Test-Demo">Penetration Test Demo</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -50,5 +50,5 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 </div>
 
 ## Projects
-- Penetration Test Demo
+- <a href="https://github.com/EBFMM/Penetration-Test-Demo">Penetration Test Demo</a>
 - SOC Automation Project
