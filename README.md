@@ -1,7 +1,6 @@
 # Hello, I'm Eddie
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a recent cybersecurity graduate with a strong foundation in technology and a passion for solving complex security challenges. I am eager to apply my knowledge and skills to contribute to innovative solutions in the field.
 
