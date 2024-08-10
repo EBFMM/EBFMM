@@ -24,7 +24,7 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <!--img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />-->
+    <img src="https://img.shields.io/badge/-TCP/IP-D2B48C?style=for-the-badge&logo=TCP/IP&logoColor=white" />
 </div>
 
 ### Endpoint
