@@ -4,9 +4,8 @@
 I am a recent cybersecurity graduate with a strong foundation in technology and a passion for solving complex security challenges. I am eager to apply my knowledge and skills to contribute to innovative solutions in the field.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My objective is to showcase my cybersecurity projects and technical skills as I work towards securing a role as a SOC analyst. I am dedicated to strengthening my foundation in best security practices, incident response, and threat analysis. This portfolio reflects my commitment to continuous learning and my readiness to contribute to a Security Operations Center, where I can apply my knowledge to real-world challenges and grow as a cybersecurity professional.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
