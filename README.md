@@ -14,7 +14,7 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 | SIEM Implementation and Log Analysis          | Security Onion + PCAP     |
 | Vulnerability Assessment and Exploitation     | <a href="https://github.com/EBFMM/Penetration-Test-Demo">Penetration Test Demo</a>|
 | Registry Analysis                             | <a href="https://github.com/EBFMM/Forensics-CTF-Writeup">Forensics CTF Write-up </a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Windows Event Log + ART Detection             | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 
 ## Tools
