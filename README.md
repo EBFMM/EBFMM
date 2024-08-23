@@ -48,7 +48,7 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-FFFFFF?style=for-the-badge&logo=Google&logoColor=black" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-8B4513?style=for-the-badge&logo=Google&logoColor=black" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-007BFF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-BTL1-1E90FF?&style=for-the-badge&logo=lock&logoColor=white" />
