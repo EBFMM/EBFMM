@@ -15,7 +15,7 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 | Vulnerability Assessment and Exploitation     | <a href="https://github.com/EBFMM/Penetration-Test-Demo">Penetration Test Demo</a>|
 | Registry Analysis                             | <a href="https://github.com/EBFMM/Forensics-CTF-Writeup">Forensics CTF Write-up </a>|
 | Associated Skill                              | Windows Event Log + ART Detection |
-| Case Management with TheHive                  | SOC Automation Lab|
+| Associated Skill                              | Azure Sentinel Live Attack Map|
 
 ## Tools
 
