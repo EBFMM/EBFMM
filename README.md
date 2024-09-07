@@ -5,7 +5,7 @@ I am a recent cybersecurity graduate with a strong foundation in technology and 
 
 ## Objective
 
-My objective is to showcase my cybersecurity projects and technical skills as I work towards securing a role as a SOC analyst. I am dedicated to strengthening my foundation in best security practices, incident response, and threat analysis. This portfolio reflects my commitment to continuous learning and my readiness to contribute and apply my knowledge to real-world challenges in order to grow as a security professional.
+My objective is to showcase my cybersecurity projects and technical skills as I work towards becoming a security professional. I am dedicated to strengthening my foundation in best security practices, incident response, and threat analysis. This portfolio reflects my commitment to continuous learning and my readiness to contribute towards real-world incidents.
 
 ## Skills
 
