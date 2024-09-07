@@ -27,7 +27,7 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-F7E8A3?&style=for-the-badge&logo=Wireshark&logoColor=black" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-D2B48C?style=for-the-badge&logo=TCP/IP&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-32CD32?style=for-the-badge&logo=OpenVAS&logoColor=white" />
