@@ -19,13 +19,13 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 
 ## Tools
 
-### Cloud 
+### Cloud Technologies
 <div>
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div>
 
-### Network
+### Network Security 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-F7E8A3?&style=for-the-badge&logo=Wireshark&logoColor=black" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
