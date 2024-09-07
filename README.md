@@ -21,6 +21,7 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 
 ### Cloud 
 <div>
+    <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div>
 
