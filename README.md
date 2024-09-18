@@ -37,6 +37,14 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+## Projects
+
+| Skills                                        | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Vulnerability Assessment and Exploitation     | <a href="https://github.com/EBFMM/Penetration-Test-Demo">Penetration Test Demo</a>|
+| Registry Analysis                             | <a href="https://github.com/EBFMM/Forensics-CTF-Writeup">Forensics CTF Write-up </a>|
+| Building a SIEM Solution with Azure           | <a href="https://github.com/EBFMM/Azure-Sentinel-RDP-Attack-Map">Azure Sentinel RDP Attack Map|
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-8B4513?style=for-the-badge&logo=Google&logoColor=black" />
@@ -45,11 +53,3 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 <img src="https://img.shields.io/badge/-BTL1-1E90FF?&style=for-the-badge&logo=lock&logoColor=white" />
 <!--<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />-->
 </div>
-
-## Projects
-
-| Skills                                        | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Vulnerability Assessment and Exploitation     | <a href="https://github.com/EBFMM/Penetration-Test-Demo">Penetration Test Demo</a>|
-| Registry Analysis                             | <a href="https://github.com/EBFMM/Forensics-CTF-Writeup">Forensics CTF Write-up </a>|
-| Building a SIEM Solution with Azure           | <a href="https://github.com/EBFMM/Azure-Sentinel-RDP-Attack-Map">Azure Sentinel RDP Attack Map|
