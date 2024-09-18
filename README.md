@@ -11,10 +11,8 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Security Onion + PCAP     |
 | Vulnerability Assessment and Exploitation     | <a href="https://github.com/EBFMM/Penetration-Test-Demo">Penetration Test Demo</a>|
 | Registry Analysis                             | <a href="https://github.com/EBFMM/Forensics-CTF-Writeup">Forensics CTF Write-up </a>|
-| Associated Skill                              | Windows Event Log + ART Detection |
 | Building a SIEM Solution with Azure           | <a href="https://github.com/EBFMM/Azure-Sentinel-RDP-Attack-Map">Azure Sentinel RDP Attack Map|
 
 ## Tools
