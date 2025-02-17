@@ -45,7 +45,7 @@ My objective is to showcase my cybersecurity projects and technical skills as I 
 | Vulnerability Assessment and Exploitation     | <a href="https://github.com/EBFMM/Penetration-Test-Demo">Penetration Test Demo</a>|
 | Registry Analysis                             | <a href="https://github.com/EBFMM/Forensics-CTF-Writeup">Forensics CTF Write-up </a>|
 | Incident Response and Threat Detection        | <a href="https://github.com/EBFMM/Azure-Sentinel-RDP-Attack-Map">Azure Sentinel RDP Attack Map|
-| Practical Help Desk Troubleshooting (TBD)     | <a href=""> Practical Help Desk Troubleshooting </a>|
+| Practical Help Desk Troubleshooting (TBD)     | <a href="https://github.com/EBFMM/Practical-Help-Desk-Troubleshooting"> Practical Help Desk Troubleshooting </a>|
 
 ## Certifications
 <div>
