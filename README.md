@@ -42,7 +42,7 @@ My objective is to showcase my practical IT and cybersecurity projects/technical
 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Practical Help Desk Troubleshooting (TBD)     | <a href="https://github.com/EBFMM/Practical-Help-Desk-Troubleshooting"> Practical Help Desk Troubleshooting </a>|
+| Help Desk Incidents/Ticket Troubleshooting     | <a href="https://github.com/EBFMM/Practical-Help-Desk"> Practical Help Desk Troubleshooting </a>|
 | Incident Response and Threat Detection        | <a href="https://github.com/EBFMM/Azure-Sentinel-RDP-Attack-Map">Azure Sentinel RDP Attack Map|
 | Vulnerability Assessment and Exploitation     | <a href="https://github.com/EBFMM/Penetration-Test-Demo">Penetration Test Demo</a>|
 | Registry Analysis                             | <a href="https://github.com/EBFMM/Forensics-CTF-Writeup">Forensics CTF Write-up </a>|
